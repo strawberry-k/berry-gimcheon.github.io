@@ -14,7 +14,7 @@ name:				         김천 딸기농장 입니다
 title:               site title
 tagline:             'tagline'
 description:         'description'
-url:                 https://berry-gimcheon.github.io
+url:                 https://strawberry-k.github.io
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -26,7 +26,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 Gimcheon strawberry
-  url:            	 https://berry-gimcheon.github.io
+  url:            	 https://strawberry-k.github.io
   facebook:          username
   twitter:           username
   google_plus:       username
