@@ -5,13 +5,12 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
-relative_permalinks: true
 
 # Setup
 timezone:            Asia/Seoul # eg. Asia/Kathmandu
 locale:              kr # eg. en_us
 name:				         김천 딸기농장 입니다
-title:               site title
+title:               김천 딸기농장 입니다
 tagline:             'tagline'
 description:         'description'
 url:                 https://strawberry-k.github.io
