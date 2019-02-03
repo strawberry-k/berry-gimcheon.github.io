@@ -7,13 +7,13 @@ excerpt: ""
 categories: INTRO
 tags:  INTRO
 image:
-  feature: walt-disney.jpg
+  feature: circle-straw.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}c.jpg);"></div>
 
 빨강얼굴 딸기농장입니다
