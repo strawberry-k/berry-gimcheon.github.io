@@ -1,7 +1,7 @@
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-@import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+@import url(//fonts.googleapis.com/earlyaccess/jejugothic.css);
 html {
-  font-family: sans-serif, 'Nanum Pen Script';
+  font-family: 'Jeju Gothic';
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -9,6 +9,7 @@ html {
 body {
   margin: 0;
 }
+
 
 article,
 aside,
@@ -121,7 +122,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace, 'Nanum Pen Script';
+  font-family: 'Jeju Gothic';
   font-size: 1em;
 }
 
@@ -232,7 +233,7 @@ th {
 /* Setup */
 html {
   /* Change default typefaces here */
-  font-family: "Source Serif Pro", serif, 'Nanum Pen Script';
+  font-family: 'Jeju Gothic';
   font-size: 137.5%;
   font-weight: 400;
   color: rgba(0, 0, 0, 0.8);
@@ -324,7 +325,7 @@ h4,
 h5,
 h6 {
   /* Change heading typefaces here */
-  font-family: "PT Sans", sans-serif;
+  font-family: 'Jeju Gothic';
   margin-top: 1.5rem;
   margin-bottom: 0;
   line-height: 1.5rem;
@@ -338,7 +339,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Jeju Gothic';
   font-size: 2.666rem;
   line-height: 3rem;
   margin-top: 3rem;
