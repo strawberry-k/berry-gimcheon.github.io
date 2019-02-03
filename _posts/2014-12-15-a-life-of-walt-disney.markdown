@@ -14,4 +14,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}walt-childhood.jpg);"></div>
+
 빨강얼굴 딸기농장입니다
