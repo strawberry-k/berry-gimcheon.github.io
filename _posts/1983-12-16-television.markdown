@@ -6,8 +6,8 @@ last_modified_at:   2019-02-03 01:00:00
 excerpt: ""
 categories: EXP
 tags:  experience
-image: exp-straw.jpg
-  feature: mickey-tv.jpg
+image: 
+  feature: exp-straw.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
