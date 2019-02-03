@@ -6,8 +6,8 @@ last_modified_at:  2014-11-28 01:00:00
 excerpt: ""
 categories: ROAD
 tags:  ROAD
-image: straw.jpg
-  feature: mickey-mouse.jpg
+image:
+  feature: straw.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
