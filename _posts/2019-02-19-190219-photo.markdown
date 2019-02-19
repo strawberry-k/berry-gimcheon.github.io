@@ -18,4 +18,4 @@ syntaxHighlighter: no
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}190202.jpg);"></div>
 
-19년 2월 사진들이에요~
+2월  사진들이에요~
