@@ -16,6 +16,8 @@ syntaxHighlighter: no
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dish.jpg);"></div>
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}exp2.jpg);"></div>
+
 아이들을 위해 체험학습도 가끔 한답니다
 
 향기도 모양도 빛깔도 맛도 내눈엔 최고~
