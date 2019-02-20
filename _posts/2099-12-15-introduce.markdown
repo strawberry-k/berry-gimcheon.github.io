@@ -7,7 +7,7 @@ excerpt: ""
 categories: INTRO
 tags:  INTRO
 image:
-  feature: circle-straw.jpg
+  feature: intro.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
