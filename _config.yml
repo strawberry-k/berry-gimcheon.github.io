@@ -12,7 +12,7 @@ locale:              kr # eg. en_us
 name:				         빨강얼굴 딸기농장
 title:               김천 빨강얼굴 딸기농장
 tagline:             'tagline'
-description:         'description'
+description:         '김천시 조마면 빨강얼굴 딸기농장. 딸기 메론. 농장 위치 및 소식.'
 url:                 https://strawberry-k.github.io
 rss:                 rss feed url
 baseurl:             '/'
