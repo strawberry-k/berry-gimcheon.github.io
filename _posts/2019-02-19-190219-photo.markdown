@@ -7,7 +7,7 @@ excerpt: ""
 categories: PHOTO
 tags:  PHOTO
 image:
-  feature: straw.jpg
+  feature: sprout.jpeg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -21,3 +21,7 @@ syntaxHighlighter: no
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}much.jpg);"></div>
 
 2월 딸기밭 사진들이에요~
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}sprout.jpeg);"></div>
+
+여름에 예정중인 멜론도 싹을 틔웠어요!
