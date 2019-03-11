@@ -24,4 +24,5 @@ syntaxHighlighter: no
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}sprout.jpeg);"></div>
 
-여름에 예정중인 멜론도 싹을 틔웠어요!
+봄인가봄🌿
+빨강밭 둘째 메론 싹이 올라왔어요👩🏻‍🌾
