@@ -26,3 +26,7 @@ syntaxHighlighter: no
 
 봄인가봄🌿
 빨강밭 둘째 메론 싹이 올라왔어요👩🏻‍🌾
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}flower.jpeg);"></div>
+
+꽃보다 딸기!
