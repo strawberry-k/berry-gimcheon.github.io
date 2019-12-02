@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "19년 12월 사진들"
+date:   2019-12-02 02:00:00
+last_modified_at:  2019-12-02 02:00:00
+excerpt: ""
+categories: PHOTO
+tags:  PHOTO
+image:
+  feature: 191201.jpeg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}191201.jpg);"></div>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}191202.jpg);"></div>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}191203.jpg);"></div>
+
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}191204.jpeg);"></div>
